@@ -24,7 +24,7 @@ jobs:
           --output=index.html
           index.md
     - name: make local
-      run : ./local.sh index.md
+      run : ./local.sh index.html
     - name: git commit
       run: |
           git config --global user.name 'indexbot_53845714'
