@@ -15,6 +15,7 @@ jobs:
     steps:
     - name: Install Pandoc
       run: sudo apt-get install -y pandoc
+      run: pandoc -v
     - uses: actions/checkout@v2
     - name: Create index.md
       run: ./create.sh index.md
