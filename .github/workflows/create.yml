@@ -23,7 +23,10 @@ jobs:
           --variable theme="league"
           --output=index.html
           index.md
-    - name: Deploy on github pages              
-      uses: JamesIves/github-pages-deploy-action@4.1.0
-      with:
-        branch: main
+    - name: git commit
+      run: |
+          git config --global user.name 'indexbot_53845714'
+          git config --global user.email 'indexbot_53845714@users.noreply.github.com'
+          git add index.html
+          git commit -m "new index.html"
+          git push
