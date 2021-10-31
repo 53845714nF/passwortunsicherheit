@@ -14,8 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Install Pandoc
-      run: sudo apt-get install -y pandoc
-      run: pandoc -v
+      run: sudo apt-get install -y pandoc && pandoc -v
     - uses: actions/checkout@v2
     - name: Create index.md
       run: ./create.sh index.md
