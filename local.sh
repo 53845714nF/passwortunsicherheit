@@ -21,7 +21,7 @@
 [ ! -f "$1" ] && { echo "File $1 dose not exsist."; exit 1; }
 
 # Check if .md extension
-[ "${1: -3}" == ".html" ] || { echo "File is not a html file."; exit 1; }
+[ "${1: -5}" == ".html" ] || { echo "File is not a html file."; exit 1; }
 
 # Array of file names
 declare -a StringArray=("league.css" \
