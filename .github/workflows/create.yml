@@ -14,17 +14,16 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Run pandoc
-         uses: docker://pandoc/core:2.14.2    
-         with:
-           args: >-                               
-             -s
-             -t revealjs
-             --slide-level=3
-             --variable theme="league"
-             --output=build/index.html
-             index.md
+      uses: docker://pandoc/core:2.14.2    
+      with:
+        args: >-                               
+          -s
+          -t revealjs
+          --slide-level=3
+          --variable theme="league"
+          --output=index.html
+          index.md
     - name: Deploy on github pages              
         uses: JamesIves/github-pages-deploy-action@4.1.0
           with:
-            branch: gh-pages
-            folder: build
+            branch: main
