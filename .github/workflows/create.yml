@@ -13,7 +13,13 @@ jobs:
     name: Create
     runs-on: ubuntu-latest
     steps:
-    - run: sudo apt-get install -y pandoc
+    - name: Install Pandoc
+      run: sudo apt-get install -y pandoc
     - uses: actions/checkout@v2
-    - run: ./create.sh index.md
-
+    - name: Create index.md
+      run: ./create.sh index.md
+    - name: git commit
+      run: |
+          git add index.html
+          git commit -m "new index.html"
+          git push
