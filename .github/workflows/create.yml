@@ -1,0 +1,17 @@
+# Create index.html
+
+name: create index
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  create:
+    name: Create
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: ./create.sh index.md
