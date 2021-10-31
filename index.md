@@ -4,7 +4,6 @@ title: Passwort (un) sicherheit
 
 ## xkcd
 
-
 ![xkcd](img/password.png)
 
 ### Anforderungen 
@@ -21,9 +20,8 @@ title: Passwort (un) sicherheit
 
 
 ## Authentisierung (Identitätsbeweis)
-
- - Authentisierung bezeichnet das Nachweisen einer Identität.
- - Authentifizierung bezeichnet die Prüfung dieses Identitätsnachweises auf seine Authentizität.
+- Authentisierung bezeichnet das Nachweisen einer Identität.
+- Authentifizierung bezeichnet die Prüfung dieses Identitätsnachweises auf seine Authentizität.
 
 ### Arten Authentifizierung
 
