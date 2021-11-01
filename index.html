@@ -28,41 +28,24 @@
   <h1 class="title">Passwort (un) sicherheit</h1>
 </section>
 
-<section>
-<section id="xkcd" class="title-slide slide level2">
-<h2>xkcd</h2>
+<section id="postillon" class="title-slide slide level2">
+<h2>Postillon</h2>
 <figure>
-<img data-src="img/password.png" alt="xkcd" /><figcaption aria-hidden="true">xkcd</figcaption>
+<img data-src="img/postillon.png" alt="postillon" /><figcaption aria-hidden="true">postillon</figcaption>
 </figure>
 </section>
-<section id="anforderungen" class="slide level3">
-<h3>Anforderungen</h3>
-<ul>
-<li>Länge des Passworts:
-<ul>
-<li>mind. 12 Zeichen lang</li>
-</ul></li>
-<li>Entropie erhöhen:
-<ul>
-<li>Verwendbare Zeichenarten</li>
-<li>Großbuchstaben</li>
-<li>Kleinbuchstaben</li>
-<li>Ziffern</li>
-<li>Sonderzeichen</li>
-<li>am besten alle Zeichenarten benutzen</li>
-</ul></li>
-</ul>
-</section></section>
+
 <section>
-<section id="authentisierung-identitätsbeweis" class="title-slide slide level2">
-<h2>Authentisierung (Identitätsbeweis)</h2>
+<section id="warum-brauchen-wir-passwörter" class="title-slide slide level2">
+<h2>Warum brauchen wir Passwörter?</h2>
 <ul>
-<li>Authentisierung bezeichnet das Nachweisen einer Identität.</li>
-<li>Authentifizierung bezeichnet die Prüfung dieses Identitätsnachweises auf seine Authentizität.</li>
+<li>Authentisierung = Nachweisen einer Identität</li>
+<li>Authentifizierung = Prüfung dieses Identitätsnachweises auf seine Authentizität</li>
 </ul>
 </section>
 <section id="arten-authentifizierung" class="slide level3">
 <h3>Arten Authentifizierung</h3>
+<p>Wie kann ich mich noch Authentifizierung?</p>
 </section>
 <section id="wer-bin-ich-biometrie" class="slide level3">
 <h3>Wer bin ich? (Biometrie)</h3>
@@ -85,31 +68,166 @@
 <h3>Was hab ich?</h3>
 <ul>
 <li>Chip Karten</li>
-<li>SSH Keys</li>
-<li>FIDIO2 Sticks</li>
+<li>Schlüssel</li>
 </ul>
 </section></section>
-<section id="passwortlisten" class="title-slide slide level2">
-<h2>Passwortlisten</h2>
+<section>
+<section id="anforderungen-an-ein-passwort" class="title-slide slide level2">
+<h2>Anforderungen an ein Passwort</h2>
 <ul>
-<li>Penetrationstest Betriebsysteme bringen Listen mit</li>
+<li>Länge des Passworts:
+<ul>
+<li>mind. 12 Zeichen lang</li>
+</ul></li>
+<li>Entropie erhöhen:
+<ul>
+<li>Verwendbare Zeichenarten</li>
+<li>Großbuchstaben</li>
+<li>Kleinbuchstaben</li>
+<li>Ziffern</li>
+<li>Sonderzeichen</li>
+<li>am besten alle Zeichenarten benutzen</li>
+</ul></li>
+</ul>
+</section>
+<section id="xkcd" class="slide level3">
+<h3>xkcd</h3>
+<figure>
+<img data-src="img/password.png" alt="xkcd" /><figcaption aria-hidden="true">xkcd</figcaption>
+</figure>
+</section></section>
+<section id="umfrage" class="title-slide slide level2">
+<h2>Umfrage</h2>
+<p>//TODO</p>
+</section>
+
+<section>
+<section id="angriffe-auf-passwörter" class="title-slide slide level2">
+<h2>Angriffe auf Passwörter</h2>
+<p>Häuigsten angriffe auf Passwörter sind folgende: - Passwortlisten - Bruteforce - Phishing</p>
+</section>
+<section id="passwortlisten" class="slide level3">
+<h3>Passwortlisten</h3>
+<ul>
+<li>Penetrationstest Betriebsysteme haben Listen</li>
 <li>Bekannteste ist rockyou.txt</li>
 <li>Sammlungen im Internet:
 <ul>
 <li>https://github.com/danielmiessler/SecLists</li>
 <li>Collection #1-5 Total mit 1TB</li>
 </ul></li>
-<li>Bekannte Tools zum Generieren von Passwortlisten:
+<li>Tools zum Generieren von Passwortlisten</li>
+</ul>
+</section>
+<section id="crunch" class="slide level3">
+<h3>Crunch</h3>
+<p>Erzeugt Listen nach Mustern <img data-src="img/crunch.png" alt="crunch" /></p>
+</section>
+<section id="cupp" class="slide level3">
+<h3>Cupp</h3>
+<p>Erzeugt Listen mit Informationen über Opfer <img data-src="img/cupp.png" alt="cupp" /></p>
+</section>
+<section id="bruteforce" class="slide level3">
+<h3>Bruteforce</h3>
+<p>Bezeichnet das ausprobieren von Passwörtern</p>
 <ul>
-<li>crunch (Listen nach Muster)</li>
-<li>cupp (Listen mit Informationen über Opfer)</li>
+<li>Hashcat oder John the Ripper (Offline gegen Dateien, Datenbanken)</li>
+<li>Hydra (Online gegen Dienste)</li>
+</ul>
+</section>
+<section id="phishing" class="slide level3">
+<h3>Phishing</h3>
+<p>Ist das abgreifen von Privaten Informationen (E-Mail, Kreditkarten Informationen, Passwörtern) durch gefälschte E-Mail und Webseiten.</p>
+</section>
+<section id="gophish" class="slide level3">
+<h3>gophish</h3>
+<p>Werkzeuge um Phishing Kampagnen zu fahren <img data-src="img/gophish.png" alt="gophish" /></p>
+</section>
+<section id="wissen-sie-was-phishing-ist" class="slide level3">
+<h3>Wissen sie was Phishing ist?</h3>
+<p>//TODO</p>
+</section></section>
+<section id="lösungen" class="title-slide slide level2">
+<h2>Lösungen</h2>
+<p>Was kann ich tun um meine Sicherheit zu verbessen?</p>
+</section>
+
+<section id="passwort-checker" class="title-slide slide level2">
+<h2>Passwort Checker</h2>
+<p>Sind Passwörter von mir abhanden gekommen? https://haveibeenpwned.com/ https://sec.hpi.de/ilc/search?lang=de</p>
+</section>
+
+<section id="fa" class="title-slide slide level2">
+<h2>2FA</h2>
+<p>//TODO</p>
+</section>
+
+<section>
+<section id="passwotmanager" class="title-slide slide level2">
+<h2>Passwotmanager</h2>
+<p>Ein Safe für alle Fälle</p>
+</section>
+<section id="was-ist-das" class="slide level3">
+<h3>Was ist das?</h3>
+<p>Computerprogramm, mit dem sie ihre Passwörter für lokale Anwendungen und Online-Dienste speichern, generieren und verwalten können.</p>
+</section>
+<section id="test" class="slide level3">
+<h3>Test</h3>
+<p>Tets zweier Bekannter Passwortmanger - KeepassXC - Bitwarden</p>
+</section>
+<section id="keepassxc" class="slide level3">
+<h3>KeepassXC</h3>
+<ul>
+<li>Speichert ein Passwortcontainer auf einem lokalen Datenträger.</li>
+<li>ein Hauptpasswort</li>
+<li>Generation der Passwörter</li>
+<li>Verlust oder Defekt des Sicherheitsschlüssels kein Zugriff mehr</li>
+</ul>
+</section>
+<section id="bitwarden" class="slide level3">
+<h3>Bitwarden</h3>
+<ul>
+<li>Cloud-Passwortmanager</li>
+<li>synchronisiert über Apps und Desktop-Programme</li>
+</ul>
+</section></section>
+<section>
+<section id="fidio2" class="title-slide slide level2">
+<h2>FIDIO2</h2>
+<p>Das Passwort der Zukunft!?</p>
+</section>
+<section id="was-ist-das-1" class="slide level3">
+<h3>Was ist das?</h3>
+<p>Ist ein Digitaler Schlüssel auf einem Gerät häuft ein USB-Stick. Prinzip basiert aus Asymmetrisches Kryptosystem.</p>
+</section>
+<section id="modi" class="slide level3">
+<h3>Modi</h3>
+<ul>
+<li>Ein-Faktor-Authentifizierung
+<ul>
+<li>lediglich FIDO2-Stick; kein Passwort nötig, aber vom Dienst abhängig -Zwei-Faktor-Authentifizierung</li>
+<li>zusätzlich zum FIDO2-Stick noch PIN, Passwort oder Fingerabdruck</li>
 </ul></li>
 </ul>
 </section>
-
-<section id="fidio2" class="title-slide slide level2">
-<h2>FIDIO2</h2>
-
+<section id="vorteil" class="slide level3">
+<h3>Vorteil</h3>
+<p>Identitätsnachweis ohne persönliche Daten zu hinterlassen durch Verschlüsselung auf der Hardware selbst</p>
+</section>
+<section id="nachteil" class="slide level3">
+<h3>Nachteil</h3>
+<ul>
+<li>Noch nicht von allen Diensten unterstützt</li>
+<li>Geräteverlust</li>
+<li>Beschädigung des Gerätes</li>
+</ul>
+</section></section>
+<section id="quellen" class="title-slide slide level2">
+<h2>Quellen</h2>
+<ul>
+<li>https://www.der-postillon.com/2014/04/sicherstes-passwort.html</li>
+<li>https://www.golem.de/news/bitwarden-und-keepassxc-wohin-mit-all-den-passwoertern-2009-151121.html</li>
+</ul>
 </section>
     </div>
   </div>
