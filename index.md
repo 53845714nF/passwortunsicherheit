@@ -98,7 +98,7 @@ Werkzeuge um Phishing Kampagnen zu fahren
 ![gophish](img/gophish.png)
 
 ### Wissen sie was Phishing ist?
-![](/img/phishing.jpg)
+![](img/phishing.jpg)
 
 ## Lösungen
 Was kann ich tun um meine Sicherheit zu verbessern?
