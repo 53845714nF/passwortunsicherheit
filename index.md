@@ -38,11 +38,27 @@ Wie kann ich mich noch Authentifizierung?
   - Sonderzeichen
   - am besten alle Zeichenarten benutzen
 
+Wichtig: Für jeden Dienst ein neues Passwort generieren!
+
 ### xkcd
 ![xkcd](img/password.png)
 
 ## Umfrage
-//TODO
+- Online Umfrage
+- Laufzeit eine Woche
+- 100 Teilnehmer
+
+### Wie alt sind die Probanden?
+![](img/alter.jpg)
+
+### Wie lang sind ihre Passwörter?
+![](img/länge_passwort.jpg)
+
+### Wie komplex sind ihre Passwörter?
+![](img/komplex.jpg)
+
+### Verwenden sie Passwörter öfter?
+![](img/öfter_benutzen.jpg)
 
 ## Angriffe auf Passwörter
 Häuigsten angriffe auf Passwörter sind folgende:
@@ -82,10 +98,10 @@ Werkzeuge um Phishing Kampagnen zu fahren
 ![gophish](img/gophish.png)
 
 ### Wissen sie was Phishing ist?
-//TODO
+![](/img/phishing.jpg)
 
 ## Lösungen
-Was kann ich tun um meine Sicherheit zu verbessen?
+Was kann ich tun um meine Sicherheit zu verbessern?
 
 ## Passwort Checker
 Sind Passwörter von mir abhanden gekommen?
@@ -137,7 +153,8 @@ Identitätsnachweis ohne persönliche Daten zu hinterlassen durch Verschlüsselu
 - Geräteverlust
 - Beschädigung des Gerätes
 
-
+## Welche Tools werden benutzt?
+![tools](img/tools.jpg)
 
 ## Quellen
 - https://www.der-postillon.com/2014/04/sicherstes-passwort.html
