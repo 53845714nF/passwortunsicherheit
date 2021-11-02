@@ -38,10 +38,11 @@ Wie kann ich mich noch Authentifizierung?
   - Sonderzeichen
   - am besten alle Zeichenarten benutzen
 
-Wichtig: Für jeden Dienst ein neues Passwort generieren!
-
 ### xkcd
 ![xkcd](img/password.png)
+
+### Wiederverwendung
+Wichtig: Für jeden Dienst ein neues Passwort generieren!
 
 ## Umfrage
 - Online Umfrage
