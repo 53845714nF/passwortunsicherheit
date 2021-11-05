@@ -1,7 +1,7 @@
 # Passwort(un)sicherheit
 Ergebnisse aus dem Projektorientierten Studium zum Thema "Sicherheit von Passwörtern".
 
-## Presentation
+## Präsentation
 Dieses Projekt beherbergt die Folien, der Abschluss Präsentation unter:
 https://53845714nf.github.io/passwortunsicherheit/
 
