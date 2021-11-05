@@ -62,7 +62,7 @@ Wichtig: Für jeden Dienst ein neues Passwort generieren!
 ![](img/öfter_benutzen.jpg)
 
 ## Angriffe auf Passwörter
-Häuigsten angriffe auf Passwörter sind folgende:
+Häuigsten Angriffe auf Passwörter sind folgende:
 - Passwortlisten
 - Bruteforce
 - Phishing
@@ -84,13 +84,13 @@ Erzeugt Listen mit Informationen über Opfer
 ![cupp](img/cupp.png)
 
 ### Bruteforce
-Bezeichnet das ausprobieren von Passwörtern
+Bezeichnet das Ausprobieren von Passwörtern
 
 - Hashcat oder John the Ripper (Offline gegen Dateien, Datenbanken)
 - Hydra (Online gegen Dienste)
 
 ### Phishing
-Ist das abgreifen von Privaten Informationen 
+Ist das Abgreifen von Privaten Informationen 
 (E-Mail, Kreditkarten Informationen, Passwörtern) 
 durch gefälschte E-Mail und Webseiten.
 
@@ -98,11 +98,11 @@ durch gefälschte E-Mail und Webseiten.
 Werkzeuge um Phishing Kampagnen zu fahren
 ![gophish](img/gophish.png)
 
-### Wissen sie was Phishing ist?
+### Wissen sie, was Phishing ist?
 ![](img/phishing.jpg)
 
 ## Lösungen
-Was kann ich tun um meine Sicherheit zu verbessern?
+Was kann ich tun, um meine Sicherheit zu verbessern?
 
 ## Passwort Checker
 Sind Passwörter von mir abhanden gekommen?
@@ -125,20 +125,20 @@ Tets zweier Bekannter Passwortmanger
 
 ### KeepassXC
 - Speichert ein Passwortcontainer auf einem lokalen Datenträger.
-- ein Hauptpasswort
+- Ein Hauptpasswort
 - Generation der Passwörter
 - Verlust oder Defekt des Sicherheitsschlüssels kein Zugriff mehr
 
 ### Bitwarden
 - Cloud-Passwortmanager
-- synchronisiert über Apps und Desktop-Programme
+- Synchronisiert über Apps und Desktop-Programme
 
 ## FIDIO2
 Das Passwort der Zukunft!?
 
 ### Was ist das?
-Ist ein Digitaler Schlüssel auf einem Gerät häuft ein USB-Stick.
-Prinzip basiert aus Asymmetrisches Kryptosystem.
+Ist ein Digitaler Schlüssel auf einem Gerät, häufig ein USB-Stick.
+Prinzip basiert auf Asymmetrischer Kryptografie.
 
 ### Modi
 - Ein-Faktor-Authentifizierung
@@ -147,7 +147,7 @@ Prinzip basiert aus Asymmetrisches Kryptosystem.
   - zusätzlich zum FIDO2-Stick noch PIN, Passwort oder Fingerabdruck
 
 ### Vorteil
-Identitätsnachweis ohne persönliche Daten zu hinterlassen durch Verschlüsselung auf der Hardware selbst
+Identitätsnachweis ohne persönliche Daten zu hinterlassen, durch Verschlüsselung auf der Hardware selbst.
 
 ### Nachteil
 - Noch nicht von allen Diensten unterstützt
