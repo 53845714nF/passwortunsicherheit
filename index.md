@@ -40,10 +40,6 @@ Wie kann ich mich noch Authentifizierung?
 - Länge wichtiger als Entropie
 
 ### Wiederverwendung
-
-Wichtig! Für jeden Dienst ein neues Passwort generieren!
-
-### Wiederverwendung
 Wichtig: Für jeden Dienst ein neues Passwort generieren!
 
 ## Umfrage
