@@ -96,12 +96,7 @@ Werkzeuge um Phishing Kampagnen zu fahren
 ![](img/phishing.jpg)
 
 ## Lösungen
-Was kann ich tun, um meine Sicherheit zu verbessern?
-
-## Passwort Checker
-Sind Passwörter von mir abhanden gekommen?
-https://haveibeenpwned.com/
-https://sec.hpi.de/ilc/search?lang=de
+![](img/pflaster.png)
 
 ## 2FA
 //TODO 
@@ -148,6 +143,11 @@ Identitätsnachweis ohne persönliche Daten zu hinterlassen, durch Verschlüssel
 - Geräteverlust
 - Beschädigung des Gerätes
 - Geräte mind. 20-100€
+
+## Passwort Checker
+Sind Passwörter von mir abhanden gekommen?
+https://haveibeenpwned.com/
+https://sec.hpi.de/ilc/search?lang=de
 
 ## Welche Tools werden benutzt?
 ![tools](img/tools.jpg)
