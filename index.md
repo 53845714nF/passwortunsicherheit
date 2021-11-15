@@ -38,8 +38,9 @@ Wie kann ich mich noch Authentifizierung?
   - am besten alle Zeichenarten benutzen
 - Länge wichtiger als Entropie
 
-### Wiederverwendung
-Wichtig: Für jeden Dienst ein neues Passwort generieren!
+### Wichtig
+- Länge wichtiger als Entropie
+- Für jeden Dienst ein neues Passwort generieren!
 
 ## Umfrage
 - Online Umfrage
