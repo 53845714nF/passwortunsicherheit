@@ -37,11 +37,11 @@ Wie kann ich mich noch Authentifizierung?
   - Ziffern
   - Sonderzeichen
   - am besten alle Zeichenarten benutzen
+- Länge wichtiger als Entropie
 
-Wichtig: Für jeden Dienst ein neues Passwort generieren!
+### Wiederverwendung
 
-### xkcd
-![xkcd](img/password.png)
+Wichtig! Für jeden Dienst ein neues Passwort generieren!
 
 ## Umfrage
 - Online Umfrage
@@ -152,6 +152,7 @@ Identitätsnachweis ohne persönliche Daten zu hinterlassen durch Verschlüsselu
 - Noch nicht von allen Diensten unterstützt
 - Geräteverlust
 - Beschädigung des Gerätes
+- Geräte mind. 20-100€
 
 ## Welche Tools werden benutzt?
 ![tools](img/tools.jpg)
