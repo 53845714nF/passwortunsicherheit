@@ -18,13 +18,13 @@ Wie kann ich mich noch Authentifizierung?
 - Venen
 - Handschrift
 
-### Was weiß ich?
-- Passwörter
-- Pins
-
 ### Was hab ich?
 - Chip Karten
 - Schlüssel
+
+### Was weiß ich?
+- Passwörter
+- Pins
 
 ## Anforderungen an ein Passwort
 - Länge des Passworts:
