@@ -77,10 +77,6 @@ Häuigsten Angriffe auf Passwörter sind folgende:
   - Collection #1-5 Total mit 1TB
 - Tools zum Generieren von Passwortlisten
 
-### Crunch
-Erzeugt Listen nach Mustern
-![crunch](img/crunch.png)
-
 ### Cupp
 Erzeugt Listen mit Informationen über Opfer
 ![cupp](img/cupp.png)
