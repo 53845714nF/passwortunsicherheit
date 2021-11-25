@@ -9,7 +9,7 @@ title: Passwort (un) sicherheit
 Authentifizierung → Prüfung dieses Identitätsnachweises auf seine Echtheit
 
 ### Arten Authentifizierung
-Wie kann ich mich noch Authentifizierung?
+Wie kann ich mich noch authentifizieren?
 
 ### Wer bin ich? (Biometrie)
 - Gesichtserkennung
@@ -31,12 +31,9 @@ Wie kann ich mich noch Authentifizierung?
   - mind. 12 Zeichen lang
 - Entropie erhöhen:
   - Verwendbare Zeichenarten
-  - Großbuchstaben
-  - Kleinbuchstaben
+  - Groß-/Kleinbuchstaben
   - Ziffern
   - Sonderzeichen
-  - am besten alle Zeichenarten benutzen
-- Länge wichtiger als Entropie
 
 ### Wichtig
 - Länge wichtiger als Entropie
@@ -56,7 +53,7 @@ Wie kann ich mich noch Authentifizierung?
 ### Wie komplex sind ihre Passwörter?
 ![](img/komplex.jpg)
 
-### Verwenden sie Passwörter öfter?
+### Verwenden sie gleiche Passwörter öfter?
 ![](img/öfter_benutzen.jpg)
 
 ## Angriffe auf Passwörter
@@ -106,7 +103,7 @@ Bezeichnet den Identitätsnachweis eines Nutzers mittels einer Kombination zweie
 ### Beispiele
 //TODO
 
-## Passwotmanager
+## Passwortmanager
 Ein Safe für alle Fälle
 
 ### Was ist das?
@@ -127,7 +124,7 @@ Tets zweier Bekannter Passwortmanger
 - Cloud-Passwortmanager
 - Synchronisiert über Apps und Desktop-Programme
 
-## FIDIO2
+## FIDO2
 Das Passwort der Zukunft!?
 
 ### Was ist das?
@@ -141,18 +138,17 @@ Prinzip basiert auf Asymmetrischer Kryptografie.
   - zusätzlich zum FIDO2-Stick noch PIN, Passwort oder Fingerabdruck
 
 ### Vorteil
-Identitätsnachweis ohne persönliche Daten zu hinterlassen, durch Verschlüsselung auf der Hardware selbst.
+Identitätsnachweis ohne persönliche Daten zu hinterlasse
 
 ### Nachteil
 - Noch nicht von allen Diensten unterstützt
-- Geräteverlust
-- Beschädigung des Gerätes
+- Geräteverlust/-beschädigung
 - Geräte mind. 20-100€
 
 ## Passwort Checker
 Sind Passwörter von mir abhanden gekommen?
-https://haveibeenpwned.com/
-https://sec.hpi.de/ilc/search?lang=de
+  - haveibeenpwned.com/
+  - sec.hpi.de/ilc/search
 
 ## Welche Tools werden benutzt?
 ![tools](img/tools.jpg)
