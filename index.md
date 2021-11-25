@@ -99,7 +99,12 @@ Werkzeuge um Phishing Kampagnen zu fahren
 ![](img/pflaster.png)
 
 ## 2FA
-//TODO 
+
+### Was ist 2FA?
+Bezeichnet den Identitätsnachweis eines Nutzers mittels einer Kombination zweier unterschiedlicher und insbesondere unabhängiger Komponenten.
+
+### Beispiele
+//TODO
 
 ## Passwotmanager
 Ein Safe für alle Fälle
