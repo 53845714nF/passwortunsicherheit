@@ -56,10 +56,9 @@ Wie kann ich mich noch authentifizieren?
 ![](img/öfter_benutzen.jpg)
 
 ## Angriffe auf Passwörter
-Häuigsten Angriffe auf Passwörter sind folgende:
-  - Passwortlisten
-  - Bruteforce
-  - Phishing
+- Passwortlisten
+- Bruteforce
+- Phishing
 
 ### Passwortlisten
 - Penetrationstest Betriebsysteme haben Listen
