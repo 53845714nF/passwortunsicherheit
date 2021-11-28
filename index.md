@@ -30,7 +30,6 @@ Wie kann ich mich noch authentifizieren?
 - Länge des Passworts:
   - mind. 12 Zeichen lang
 - Entropie erhöhen:
-  - Verwendbare Zeichenarten
   - Groß-/Kleinbuchstaben
   - Ziffern
   - Sonderzeichen
