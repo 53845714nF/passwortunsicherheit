@@ -99,7 +99,7 @@ Werkzeuge um Phishing Kampagnen zu fahren
 Bezeichnet den Identitätsnachweis eines Nutzers mittels einer Kombination zweier unterschiedlicher und insbesondere unabhängiger Komponenten.
 
 ### Beispiele
-//TODO
+![](img/2FA.jpg)
 
 ## Passwortmanager
 Ein Safe für alle Fälle
