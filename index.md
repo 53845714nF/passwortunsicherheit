@@ -143,10 +143,9 @@ Identitätsnachweis ohne persönliche Daten zu hinterlasse
 - Geräteverlust/-beschädigung
 - Geräte mind. 20-100€
 
-## Passwort Checker
-Sind Passwörter von mir abhanden gekommen?
-  - haveibeenpwned.com/
-  - sec.hpi.de/ilc/search
+## Passworter verloren?
+- haveibeenpwned.com
+- sec.hpi.de/ilc/search
 
 ## Welche Tools werden benutzt?
 ![tools](img/tools.jpg)
