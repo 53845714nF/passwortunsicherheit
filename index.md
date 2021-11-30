@@ -173,3 +173,6 @@ Identitätsnachweis ohne persönliche Daten zu hinterlasse
 - keepass.info
 - heise.de/ct/artikel/Passwortloses-Anmelden-dank-FIDO2-4494951.html
 - solokeys.com/de
+
+## Q & A
+![](img/Frage-und-Loesung.png)
