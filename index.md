@@ -6,7 +6,8 @@ title: Passwort (un) sicherheit
 ![postillon](img/postillon.png)
 
 ## Warum brauchen wir Passwörter?
-Authentifizierung → Prüfung dieses Identitätsnachweises auf seine Echtheit
+- Authentisierung → Bezeichnet das Nachweisen einer Identität.
+- Authentifizierung → Prüfung dieses Identitätsnachweises auf seine Echtheit
 
 ### Arten Authentifizierung
 Wie kann ich mich noch authentifizieren?
@@ -111,12 +112,11 @@ Ein Safe für alle Fälle
 Computerprogramm, mit dem sie ihre Passwörter für lokale Anwendungen und Online-Dienste speichern, generieren und verwalten können.
 
 ### Test
-Tets zweier Bekannter Passwortmanger
 - KeepassXC
 - Bitwarden
 
 ### KeepassXC
-- Speichert ein Passwortcontainer auf einem lokalen Datenträger.
+- Speichert ein Passwortcontainer auf einer Festplatte
 - Ein Hauptpasswort
 - Generation der Passwörter
 - Verlust oder Defekt des Sicherheitsschlüssels kein Zugriff mehr
