@@ -6,7 +6,8 @@ title: Passwort (un) sicherheit
 ![postillon](img/postillon.png)
 
 ## Warum brauchen wir Passwörter?
-Authentifizierung → Prüfung dieses Identitätsnachweises auf seine Echtheit
+- Authentisierung → Bezeichnet das Nachweisen einer Identität.
+- Authentifizierung → Prüfung dieses Identitätsnachweises auf seine Echtheit
 
 ### Arten Authentifizierung
 Wie kann ich mich noch authentifizieren?
