@@ -138,6 +138,9 @@ Das Passwort der Zukunft!?
 Ist ein Digitaler Schlüssel auf einem Gerät, häufig ein USB-Stick.
 Prinzip basiert auf Asymmetrischer Kryptografie.
 
+### Schlüssel
+![](img/fido2.jpg)
+
 ### Modi
 - Ein-Faktor-Authentifizierung
   - lediglich FIDO2-Stick; kein Passwort nötig, aber vom Dienst abhängig
@@ -159,7 +162,7 @@ Identitätsnachweis ohne persönliche Daten zu hinterlasse
 ## Welche Tools werden benutzt?
 ![tools](img/tools.jpg)
 
-## Was solltet ihr jetz tun?
+## Was solltet ihr jetzt tun?
 - Heute gucken ob euer Passwort verloren gegangen ist.
 - Nächste Woche richtet ihr ein Passwortmanager ein.
 - Und als letztes verseht ihr wichtige Logins mit 2FA.
