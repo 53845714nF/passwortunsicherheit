@@ -115,7 +115,7 @@ Computerprogramm, mit dem sie ihre Passwörter für lokale Anwendungen und Onlin
 - Bitwarden
 
 ### KeepassXC
-- Speichert ein Passwortcontainer auf einem lokalen Datenträger.
+- Speichert ein Passwortcontainer auf einer Festplatte
 - Ein Hauptpasswort
 - Generation der Passwörter
 - Verlust oder Defekt des Sicherheitsschlüssels kein Zugriff mehr
