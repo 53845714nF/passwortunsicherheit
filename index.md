@@ -163,8 +163,8 @@ Identitätsnachweis ohne persönliche Daten zu hinterlasse
 ![tools](img/tools.jpg)
 
 ## Was solltet ihr jetzt tun?
-- Heute gucken ob euer Passwort verloren gegangen ist.
-- Nächste Woche richtet ihr ein Passwortmanager ein.
+- Heute gucken, ob euer Passwort verloren gegangen ist.
+- Nächste Woche richtet ihr einen Passwortmanager ein.
 - Und als letztes verseht ihr wichtige Logins mit 2FA.
 
 ## Quellen
