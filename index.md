@@ -111,7 +111,6 @@ Ein Safe für alle Fälle
 Computerprogramm, mit dem sie ihre Passwörter für lokale Anwendungen und Online-Dienste speichern, generieren und verwalten können.
 
 ### Test
-Tets zweier Bekannter Passwortmanger
 - KeepassXC
 - Bitwarden
 
