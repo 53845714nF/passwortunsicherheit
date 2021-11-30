@@ -83,6 +83,9 @@ Ist das Abgreifen von Privaten Informationen
 (E-Mail, Kreditkarten Informationen, Passwörtern) 
 durch gefälschte E-Mail und Webseiten.
 
+### E-Mail
+![](img/phishing.png)
+
 ### gophish
 Werkzeuge um Phishing Kampagnen zu fahren
 ![gophish](img/gophish.png)
@@ -118,9 +121,15 @@ Tets zweier Bekannter Passwortmanger
 - Generation der Passwörter
 - Verlust oder Defekt des Sicherheitsschlüssels kein Zugriff mehr
 
+### UI
+![](img/keepassxc.jpg)
+
 ### Bitwarden
 - Cloud-Passwortmanager
 - Synchronisiert über Apps und Desktop-Programme
+
+### UI
+![](img/bitwarden.png)
 
 ## FIDO2
 Das Passwort der Zukunft!?
@@ -150,6 +159,14 @@ Identitätsnachweis ohne persönliche Daten zu hinterlasse
 ## Welche Tools werden benutzt?
 ![tools](img/tools.jpg)
 
+## Was solltet ihr jetz tun?
+- Heute gucken ob euer Passwort verloren gegangen ist.
+- Nächste Woche richtet ihr ein Passwortmanager ein.
+- Und als letztes verseht ihr wichtige Logins mit 2FA.
+
 ## Quellen
-- https://www.der-postillon.com/2014/04/sicherstes-passwort.html
-- https://www.golem.de/news/bitwarden-und-keepassxc-wohin-mit-all-den-passwoertern-2009-151121.html
+- golem.de/news/bitwarden-und-keepassxc-wohin-mit-all-den-passwoertern-2009-151121.html
+- bitwarden.com
+- keepass.info
+- heise.de/ct/artikel/Passwortloses-Anmelden-dank-FIDO2-4494951.html
+- solokeys.com/de
