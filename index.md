@@ -148,7 +148,7 @@ Prinzip basiert auf Asymmetrischer Kryptografie.
   - zusätzlich zum FIDO2-Stick noch PIN, Passwort oder Fingerabdruck
 
 ### Vorteil
-Identitätsnachweis ohne persönliche Daten zu hinterlasse
+Identitätsnachweis ohne persönliche Daten zu hinterlassen
 
 ### Nachteil
 - Noch nicht von allen Diensten unterstützt
